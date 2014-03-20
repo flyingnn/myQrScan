@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">myQrcode</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+      <string name="result_failed">No barcode found</string>
+  <string name="result_failed_why">"The user gave up and pressed Back"</string>
+  <string name="result_succeeded">Found barcode</string>
+
+</resources>
